@@ -20,7 +20,7 @@ flowchart LR
     F -->|Persistencia| G[(<b>7. Almacenamiento</b><br>• CSV / Parquet<br>• Base de Datos SQLite)]
     G -->|Consultas SQL / BI| H[<b>8. Consumo</b><br>Analítica / Reportes]
 
-Parte 4
+
 # Pipeline de Datos: Extracción, Transformación, Calidad y Almacenamiento
 
 Este repositorio contiene la implementación de un pipeline ETL (Extracción, Transformación y Carga) desarrollado en **Python** y ejecutado en **Google Colab**, diseñado para procesar un volumen de datos superior a 500 registros respetando estrictos estándares de calidad y arquitectura.
